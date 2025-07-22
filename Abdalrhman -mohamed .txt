@@ -1,0 +1,14 @@
+Language summary (C)
+
+
+1- #includ allows us to use some of ready cod that was written.
+2- print f = make the output show in the screen.
+3-\n = make a new line.
+4- variables = u can save a space of memory to name it any thing.
+5- data types= like character for letters or int for numbers or floot for 0,00.
+6- ascii = list have some numbers withe some cod.
+7- scan f = take an input from the user. 
+8- if statement that u but a conditions to the code to operate. 
+9- for statement = that u but an conditions and start and end point the code will run from start to end like u say. 
+10-while = like the for loop put it can be infinity.
+11-break and continue = if u have an while or for loop and u want the code exit it when some condition shown up. 
